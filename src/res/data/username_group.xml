@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root> 
+  <list name="username"> 
+    <username>张三</username>  
+    <username>李四</username>  
+    <username>陈奕迅</username>  
+    <username>许嵩</username>  
+    <username>张三丰</username>  
+    <username>张全蛋</username> 
+  </list>  
+  <list name="group"> 
+    <group>228.5.6.7</group>  
+    <group>228.5.6.8</group> 
+  </list> 
+</root>
